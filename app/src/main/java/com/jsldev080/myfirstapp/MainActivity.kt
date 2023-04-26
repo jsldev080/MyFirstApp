@@ -24,5 +24,7 @@ class MainActivity : AppCompatActivity() { // Activity = Screen
             Toast.makeText(this, "Hey Jungsoo!", Toast.LENGTH_LONG).show() // text "Hey Jungsoo!" shows up on the screen
         }
 
+        // how to connect with physical device: phone - developer mode - debugging mode
+
     }
 }
